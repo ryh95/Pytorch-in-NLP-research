@@ -1,4 +1,4 @@
-﻿# Pytorch in NLP research
+# Pytorch in NLP research
 
 This is a curated list of **papers** in **NLP** research using **Pytorch**.
 
@@ -23,33 +23,35 @@ This is a curated list of **papers** in **NLP** research using **Pytorch**.
 
 [Training RNNs as Fast as CNNs][5]
 
+[Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog][6] (EMNLP 2017)
+
 ## Papers with Third-Party Implementations
 `Recursive NN` `sen2vec`
 
-[Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks][6] (ACL 2015)
+[Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks][7] (ACL 2015)
 
 `QA`
 
-[Reading Wikipedia to Answer Open-Domain Questions][7] (ACL 2017)
+[Reading Wikipedia to Answer Open-Domain Questions][8] (ACL 2017)
 
 `MT` `attention`
 
-[Attention is All You Need][8]
+[Attention is All You Need][9]
 
 `sen2vec`
 
-[A Structured Self-attentive Sentence Embedding][9] (ICLR 2017)
+[A Structured Self-attentive Sentence Embedding][10] (ICLR 2017)
 
 
-[A Recurrent Latent Variable Model for Sequential Data][10] (NIPS 2015)
+[A Recurrent Latent Variable Model for Sequential Data][11] (NIPS 2015)
 
 `Recurrent NN`
 
-[Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting][11] (NIPS 2015)
+[Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting][12] (NIPS 2015)
 
 `attention` `slot filling` `intent detection`
 
-[Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling][12]
+[Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling][13]
 
 
   [1]: https://github.com/facebookresearch/InferSent
@@ -57,10 +59,11 @@ This is a curated list of **papers** in **NLP** research using **Pytorch**.
   [3]: https://github.com/salesforce/pytorch-qrnn
   [4]: https://github.com/facebookresearch/DrQA
   [5]: https://github.com/taolei87/sru
-  [6]: https://github.com/dasguptar/treelstm.pytorch
-  [7]: https://github.com/hitvoice/DrQA
-  [8]: https://github.com/jadore801120/attention-is-all-you-need-pytorch
-  [9]: https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding
-  [10]: https://github.com/emited/VariationalRecurrentNeuralNetwork
-  [11]: https://github.com/automan000/Convolution_LSTM_pytorch
-  [12]: https://github.com/DSKSD/RNN-for-Joint-NLU
+  [6]: https://github.com/batra-mlp-lab/lang-emerge
+  [7]: https://github.com/dasguptar/treelstm.pytorch
+  [8]: https://github.com/hitvoice/DrQA
+  [9]: https://github.com/jadore801120/attention-is-all-you-need-pytorch
+  [10]: https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding
+  [11]: https://github.com/emited/VariationalRecurrentNeuralNetwork
+  [12]: https://github.com/automan000/Convolution_LSTM_pytorch
+  [13]: https://github.com/DSKSD/RNN-for-Joint-NLU
